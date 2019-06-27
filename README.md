@@ -1,28 +1,22 @@
-# free
 <html>
-<head>
-	<title>Галерея фотографий.</title>
-</head>
 <body bgcolor="#ffffff">
-	<h1 align="center">Галерея фотографий с участка LSPD.</h1> 
-	<h3 align="center"><font size="5" color="black" face="Times New Roman">А вот здесь вы можете посмотреть как проводилась проверка сотрудников LSPD.</h3>
-	<h2 align="center"></h2>
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery2.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery3.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery4.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery5.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery6.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery7.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery8.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery9.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery10.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery11.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery12.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery13.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery14.jpg" width="1330" height="738">
-	<img src="D:\Documents\GTA San Andreas User Files\Gallery\gallery15.jpg" width="1330" height="738">
-	<form method="get" action="file:///D:/Desktop/Проврка/Glav.html">
-		<p style="text-align: center"><button>Главная</button>
-	</form>
+	<h1 align="center">Проверка Администрацией Губернатора LSPD.</h1> 
+	</p1 align="left"><font size="5" color="black" face="Times New Roman">Здравствуйте дорогие жители штата San-Andreas. Сегодня Администрация губернатора провела небольшую проверку у LSPD. Проверку проводили очень тчательно и грамотно. Сотрудники LSPD были очень послушны и выполняли все приказы которые им говорили. Что же проверяли сотрудники Администрации губернатора? А они проверяли медецинские карты, знание устава, проверки их речи, так же проверяли их на наличие запрещенных средств ( Наркотики ). Все сотрудники, в том числе и Заместитель шефа, прошли проверку на "Ура"! Запрещённых средств найдено не было, все сотрудники отично сдали устав и речь. Спасибо за вниманеи, газету выдал Ген.Директор СМИ г.Лос-Сантос - Байрон Уильямс. Всех хорошего дня.<p1>
+		<img src="123.png" width="1330" height="469">
+  <h2 align="center">Галерея фотографий с участка LSPD</h2>
+	<img src="gallery2.jpg" width="1330" height="469">
+  <img src="gallery3.jpg" width="1330" height="469">
+  <img src="gallery4.jpg" width="1330" height="469">
+  <img src="gallery5.jpg" width="1330" height="469">
+  <img src="gallery6.jpg" width="1330" height="469">
+  <img src="gallery7.jpg" width="1330" height="469">
+  <img src="gallery8.jpg" width="1330" height="469">
+  <img src="gallery9.jpg" width="1330" height="469">
+  <img src="gallery10.jpg" width="1330" height="469">
+  <img src="gallery11.jpg" width="1330" height="469">
+  <img src="gallery12.jpg" width="1330" height="469">
+  <img src="gallery13.jpg" width="1330" height="469">
+  <img src="gallery14.jpg" width="1330" height="469">
+  <img src="gallery15.jpg" width="1330" height="469">
 </body>
 </html>
